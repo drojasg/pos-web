@@ -1,0 +1,13 @@
+# Entornos virtuales
+venv/
+
+# Archivos del sistema
+__pycache__/
+*.pyc
+
+# Archivos de VSCode (si usas)
+.vscode/
+
+# Bases de datos locales
+*.db
+*.sqlite3
